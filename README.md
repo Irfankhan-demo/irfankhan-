@@ -2,4 +2,5 @@
 <br>
 my first program in java.
 <br>
-Auther-Irfan khan
+Author-Irfan khan
+irfan khan
